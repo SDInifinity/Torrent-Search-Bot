@@ -7,7 +7,7 @@
 - Added YTS Search Support
 - Added Anime Torrents Search Support
 
-<img src="https://telegra.ph/file/c18a32b1b3d3744bf44dc.jpg" width="300 " height="300 "/></a></p>
+<img src="https://telegra.ph/file/9cb61e9f856e4962d04f3.jpg" width="300 " height="300 "/></a></p>
 
 
 
